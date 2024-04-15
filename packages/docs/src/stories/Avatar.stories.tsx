@@ -3,10 +3,16 @@ import { Avatar, AvatarProps } from '@ignite-ui/react'
 
 export default {
   title: 'Data display/Avatar',
+  tags: ['autodocs'],
   component: Avatar,
   args: {
     src: 'https://github.com/RamonFontana.png',
     alt: 'Ramon Fontana'
+  },
+  argTypes: {
+    src: {
+      control: 'text'
+    }
   }
 } as Meta<AvatarProps>
 
