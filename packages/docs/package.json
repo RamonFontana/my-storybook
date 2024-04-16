@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@ramon-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,10 +11,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@ramon-ignite-ui/eslint-config": "*",
+    "@ramon-ignite-ui/react": "*",
+    "@ramon-ignite-ui/tokens": "*",
+    "@ramon-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.6.17",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",
